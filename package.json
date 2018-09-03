@@ -1,0 +1,11 @@
+{
+  "name": "eas_server",
+  "version": "0.0.0",
+  "description": "EAS (European Accident Statement) Webform Server for easy communication with your insurance broker",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tom Kopp",
+  "license": "ISC"
+}
